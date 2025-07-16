@@ -1,0 +1,1 @@
+Tâche : Détailler le plan en 4 étapes (Collecte, MVP, Validation, Déploiement), en précisant les actions, les livrables et les jalons pour chaque phase.

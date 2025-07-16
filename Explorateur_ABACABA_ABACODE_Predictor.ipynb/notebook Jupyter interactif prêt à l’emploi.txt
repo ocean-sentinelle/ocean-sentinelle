@@ -1,0 +1,9 @@
+Ce notebook vous permet de :
+
+Charger la configuration ABACABA
+
+Exécuter l’analyse des tirages
+
+Obtenir les combinaisons les plus probables
+
+Sauvegarder les résultats

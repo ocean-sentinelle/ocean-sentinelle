@@ -1,0 +1,32 @@
+Tâche : Rédiger un résumé des solutions existantes pour la gestion du littoral et positionner l'approche innovante d'ABACODE par rapport à celles-ci.
+
+**Titre : Projet LITTORAL-ABACABA : Vers une Modélisation Systémique et Hybride pour l'Adaptation du Littoral Néo-Aquitain.**
+
+**1. Introduction : L'Enjeu Stratégique en Réponse à l'Appel à Projets**
+
+En réponse à l'appel à projets "Solutions Innovantes pour l'Adaptation au Changement Climatique", ce document présente une approche de rupture pour la gestion des territoires littoraux. La côte de la Nouvelle-Aquitaine est un socio-écosystème complexe, où l'aléa climatique (érosion, submersion) interagit en permanence avec la vulnérabilité socio-économique (urbanisation, économie touristique). Les stratégies d'adaptation actuelles se heurtent à la difficulté de modéliser ces interactions et d'anticiper les dynamiques non-linéaires. Notre projet, LITTORAL-ABACABA, propose une solution innovante pour dépasser ces limites.
+
+**2. État de l'Art : Approches Actuelles et Leurs Angles Morts**
+
+Les stratégies d'adaptation au changement climatique s'appuient sur un ensemble d'outils de modélisation performants mais qui opèrent souvent en silos.
+
+* **2.1. Les Modèles Physiques (Déterministes) :** Les modèles de processus comme **XBeach** ou la suite **Delft3D** (Roelvink et al., 2009) excellent dans la simulation à haute résolution des processus hydro-sédimentaires. Ils sont indispensables pour la prévision de l'aléa physique.
+    * **Limite :** Leur nature déterministe et leur coût de calcul les rendent peu aptes à intégrer la complexité et l'incertitude du comportement humain ou à explorer un grand nombre de scénarios socio-économiques.
+
+* **2.2. L'Approche Spatiale Statique (SIG) :** Les Systèmes d'Information Géographique sont fondamentaux pour cartographier la vulnérabilité en croisant des données (occupation du sol, démographie, topographie).
+    * **Limite :** Ils offrent une vision essentiellement statique. Ils peinent à modéliser les boucles de rétroaction temporelles, par exemple comment une politique d'aménagement modifie en retour les comportements et, par conséquent, la vulnérabilité future.
+
+* **2.3. Les Modèles Socio-Simulatifs (ex: Modèles à Base d'Agents - ABM) :** Des approches plus avancées comme les ABM (Epstein & Axtell, 1996, *Growing Artificial Societies*) tentent de combler ce fossé en simulant les décisions d'agents individuels (ménages, entreprises) et en observant les structures macroscopiques qui en émergent.
+    * **Limite :** Le défi majeur des ABM réside dans la définition des règles de comportement des agents. Celles-ci sont souvent des simplifications qui ignorent l'influence structurante et irrationnelle des **grands narratifs collectifs**, des perceptions culturelles et des conflits politiques.
+
+**3. La Rupture Proposée par LITTORAL-ABACABA : L'Hybridation Systémique**
+
+Notre projet ne vise pas à remplacer ces outils mais à les orchestrer au sein d'un **méta-modèle hybride** qui adresse directement leurs limites. L'innovation réside dans l'intégration de deux concepts issus de la science des systèmes complexes et des humanités numériques.
+
+* **3.1. L'Analyse des "Champs Narratifs" :** Pour dépasser les limites des ABM, nous ne modélisons pas seulement les comportements individuels, mais aussi le **"champ narratif"** dans lequel ils s'inscrivent. Inspiré par les travaux sur l'analyse du discours (Foucault, 1969) et adapté aux méthodes de traitement du langage naturel (NLP) à grande échelle, le moteur ABACODE analyse des corpus textuels (médias, débats publics, archives) pour quantifier des concepts immatériels : **l'acceptabilité sociale d'une politique, le niveau de tension conflictuelle, ou l'émergence d'un consensus**. Cette analyse produit des indicateurs qui viennent moduler dynamiquement les paramètres de nos simulations.
+
+* **3.2. La Simulation d'Avenirs Possibles par Arborescence Fractale :** Plutôt que de prédire un unique futur, nous explorons l'espace des possibles. Notre approche, inspirée de la **géométrie fractale (Mandelbrot, 1982)**, permet de simuler des **arborescences de scénarios**. Chaque décision politique (ex: la construction d'une digue, une politique de relocalisation) constitue un "nœud de bifurcation" à partir duquel nous simulons les effets en cascade de premier, second et troisième ordre. Cela permet de révéler des conséquences inattendues et des stratégies d'adaptation plus résilientes car testées contre un éventail plus large de futurs.
+
+**4. Conclusion et Alignement avec l'Appel à Projets**
+
+LITTORAL-ABACABA propose une solution qui répond directement à la double exigence d'**innovation** et d'**adaptation** de l'appel à projets. En hybridant la modélisation physique, la simulation sociale et, surtout, l'analyse sémantique des dynamiques collectives, notre projet fournit un outil d'aide à la décision unique. Il ne se contente pas de produire des prédictions, mais offre aux acteurs de la Nouvelle-Aquitaine une plateforme pour **explorer, comprendre et débattre des futurs possibles** de leur littoral, et ainsi construire des stratégies d'adaptation plus robustes et socialement acceptées.

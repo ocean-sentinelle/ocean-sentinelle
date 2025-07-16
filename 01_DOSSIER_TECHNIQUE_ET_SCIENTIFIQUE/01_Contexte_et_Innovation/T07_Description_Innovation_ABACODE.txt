@@ -1,0 +1,32 @@
+Tâche : # T07 : Description de l'Innovation ABACODE
+
+## 1. Introduction : Le Principe d'un Méta-Modèle Hybride
+
+L'innovation fondamentale du projet OCÉAN-SENTINELLE ne réside pas dans la création d'un modèle de plus, mais dans le développement d'un **méta-modèle intégrateur**, l'ABACODE. Contrairement aux approches en silos qui excellent dans un domaine unique (physique, biologie, économie), l'ABACODE est conçu pour orchestrer ces expertises. Il agit comme une couche d'intelligence supérieure qui fusionne des données hétérogènes pour générer une compréhension systémique et prospective des enjeux littoraux.
+
+## 2. L'Architecture Conceptuelle en Trois Couches
+
+Le moteur ABACODE fonctionne selon une architecture en trois couches interdépendantes :
+
+### Couche 1 : L'Agrégateur de Données Hétérogènes
+C'est la fondation du système. Ce module est responsable de la collecte, du nettoyage et de l'harmonisation des différentes sources de données que nous avons identifiées :
+* **Données Physico-Chimiques :** Séries temporelles de pH, température, salinité (Source : Ifremer, ODATIS).
+* **Données Géospatiales :** Modèles Numériques de Terrain, évolution du trait de côte (Source : OCNA, SHOM).
+* **Données Biologiques :** Études d'impact sur les espèces, données de biomasse (Source : Publications scientifiques, rapports Ifremer).
+* **Données Socio-Économiques :** Emploi, chiffre d'affaires des filières, démographie (Source : INSEE, comités professionnels).
+* **Données Textuelles :** Corpus de presse, délibérations publiques, rapports institutionnels.
+
+### Couche 2 : Le Moteur d'Analyse Symbolique et de Corrélation
+C'est le cœur de l'analyse. Cette couche ne se contente pas de traiter des chiffres, elle "lit" et "interprète" les données pour en extraire des motifs et du sens.
+* **Traduction :** Elle transforme les données brutes en indicateurs actionnables (ex: un niveau de pH devient un "niveau de stress pour la calcification").
+* **Détection de Motifs :** Elle recherche des "motifs symboliques" récurrents et des corrélations non-triviales entre des domaines différents (ex: corrélation entre un certain type de discours médiatique et une baisse de la fréquentation touristique 6 mois plus tard).
+* **Quantification :** Elle traduit ces relations en un **Score Global de Désirabilité (SGD)** pour chaque scénario ou variable, fusionnant l'analyse quantitative et qualitative.
+
+### Couche 3 : Le Simulateur de Scénarios Prospectifs
+C'est la couche la plus stratégique, celle qui produit la valeur finale pour le décideur.
+* **Simulation "What If" :** Elle permet de poser des questions complexes : "Que se passe-t-il si nous investissons 5M€ dans la stratégie A contre la stratégie B sur 10 ans ?".
+* **Arborescence Fractale :** Au lieu d'un futur unique, le simulateur génère une arborescence de futurs possibles, en montrant les effets en cascade et les conséquences involontaires de chaque décision.
+* **Aide à la Décision :** Le résultat final est un tableau de bord comparatif des scénarios, classés selon leur SGD, leur coût, et leur niveau de résilience.
+
+## 3. Conclusion : Une Innovation d'Usage
+L'innovation de l'ABACODE n'est pas seulement technique, elle est avant tout une innovation d'usage. En faisant le pont entre la science fondamentale et la décision stratégique, OCÉAN-SENTINELLE apporte l'outil manquant pour une gouvernance éclairée et adaptative de notre littoral.

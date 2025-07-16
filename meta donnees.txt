@@ -1,0 +1,15 @@
+| Champ              | Valeur recommandée                                                                                           |
+| ------------------ | ------------------------------------------------------------------------------------------------------------ |
+| **Titre**          | OCÉAN SENTINELLE                                                                                             |
+| **Date**           | 2025-07-21                                                                                                   |
+| **Créateur**       | Alejandro Tomas Trujillo Castro                                                                              |
+| **Droits**         | CC-BY-SA 4.0 – Ocean Sentinel, 2025                                                                          |
+| **Éditeur**        | Projet OCÉAN-SENTINELLE                                                                                      |
+| **Identifiant**    | ocean-sentinelle-logo-2025                                                                                   |
+| **Source**         | OCÉAN-SENTINELLE – Observatoire de l’acidification – Nouvelle-Aquitaine                                      |
+| **Relation**       | [https://github.com/ocean-sentinelle/ocean-sentinelle](https://github.com/ocean-sentinelle/ocean-sentinelle) |
+| **Langue**         | fr                                                                                                           |
+| **Mots clés**      | océan, acidification, ABACODE, sentinelle, ambigramme, planète, résilience                                   |
+| **Portée**         | Représentation graphique officielle du projet OCÉAN-SENTINELLE                                               |
+| **Description**    | Logo vectoriel officiel sans texte, version universelle                                                      |
+| **Collaborateurs** | Généré avec IA, modifié et validé par l'équipe OCÉAN-SENTINELLE                                              |

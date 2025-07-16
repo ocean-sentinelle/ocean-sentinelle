@@ -1,0 +1,1 @@
+Tâche : Lister et pondérer les critères sur lesquels le dossier sera évalué (ex: Caractère innovant 40%, Impact régional 30%, Faisabilité 30%).

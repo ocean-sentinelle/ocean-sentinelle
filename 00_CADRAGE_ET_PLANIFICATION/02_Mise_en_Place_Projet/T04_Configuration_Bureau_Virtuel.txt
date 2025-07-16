@@ -1,0 +1,1 @@
+Tâche : Mettre en place la solution de bureau virtuel choisie (ex: Notion, Microsoft 365) avec la structure de dossiers, les accès et les règles de sécurité.

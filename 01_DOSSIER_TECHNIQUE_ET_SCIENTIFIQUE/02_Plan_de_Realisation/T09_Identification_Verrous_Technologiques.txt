@@ -1,0 +1,1 @@
+Tâche : Lister les défis techniques ou scientifiques majeurs (ex: accès à des données qualifiées, validation du modèle prédictif) et proposer une stratégie pour les lever.

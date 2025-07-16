@@ -1,0 +1,1 @@
+Tâche : Créer un tableau Excel avec le budget prévisionnel sur la durée du projet, en détaillant les coûts humains, matériels et d'infrastructure.

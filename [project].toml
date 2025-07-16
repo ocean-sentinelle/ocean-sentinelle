@@ -1,0 +1,41 @@
+[project]
+name = "ocean-sentinelle"
+version = "0.1.0"
+description = "Outil d’aide à la décision pour la gestion du littoral en Nouvelle-Aquitaine face à l’acidification des océans"
+authors = [
+  { name="Alejandro Tomas Trujillo Castro", email="alejandro.trujillo@example.com" }
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.9"
+
+dependencies = [
+  "pandas",
+  "numpy",
+  "pyyaml",
+  "matplotlib",
+  "scikit-learn",
+  "geopandas",
+  "plotly"
+]
+
+[project.optional-dependencies]
+dev = [
+  "black",
+  "pytest",
+  "mypy"
+]
+
+[project.urls]
+Homepage = "https://github.com/ton-projet/ocean-sentinelle"
+Documentation = "https://github.com/ton-projet/ocean-sentinelle/wiki"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

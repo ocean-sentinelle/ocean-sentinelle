@@ -1,0 +1,24 @@
+OCÉAN-SENTINELLE – Licence des éléments visuels (logo, favicon, illustrations)
+
+Copyright (c) 2025 Alejandro Tomas Trujillo Castro
+
+Les fichiers visuels de ce dépôt (y compris le logo OCÉAN SENTINELLE, les icônes et éléments graphiques) sont diffusés sous la licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International (CC BY-SA 4.0).
+
+Cela signifie que vous êtes libre de :
+
+✔ Partager — copier, distribuer et communiquer le matériel par tous moyens et sous tous formats  
+✔ Adapter — remixer, transformer et créer à partir du matériel pour toute utilisation, y compris commerciale
+
+À condition de respecter les termes suivants :
+
+📝 **Attribution** — Vous devez créditer l’œuvre, fournir un lien vers la licence, et indiquer si des modifications ont été effectuées. Vous pouvez le faire de manière raisonnable, sans suggérer que le donneur de licence vous soutient ou soutient votre utilisation.
+
+🔁 **Partage dans les mêmes conditions** — Si vous modifiez, transformez ou créez à partir du matériel, vous devez diffuser vos contributions sous la même licence que l’original.
+
+📄 Texte complet de la licence : https://creativecommons.org/licenses/by-sa/4.0/
+
+---
+
+Ce logo et les déclinaisons graphiques ont été conçus dans le cadre du projet **OCÉAN-SENTINELLE**, un observatoire scientifique et territorial de l’acidification des océans en Nouvelle-Aquitaine.
+
+Pour toute question ou utilisation spécifique, veuillez contacter : oceansentinelle@gmail.com
