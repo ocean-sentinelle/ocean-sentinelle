@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xarray
+netCDF4
+geopandas
+pyyaml
+requests
+pytest
+streamlit

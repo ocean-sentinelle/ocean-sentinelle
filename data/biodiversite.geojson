@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "espece": "maerl", "sensibilite": "haute" }, "geometry": { "type": "Point", "coordinates": [ -1.5, 45.5 ] } },
+{ "type": "Feature", "properties": { "id": 2, "espece": "huitre plate", "sensibilite": "moyenne" }, "geometry": { "type": "Point", "coordinates": [ -1.3, 45.7 ] } },
+{ "type": "Feature", "properties": { "id": 3, "espece": "zostere", "sensibilite": "elevee" }, "geometry": { "type": "Point", "coordinates": [ -1.2, 45.6 ] } }
+]
+}

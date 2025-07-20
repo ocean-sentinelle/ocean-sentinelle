@@ -1,0 +1,9 @@
+{
+  "annee": 2035,
+  "scenario": "RCP4.5",
+  "impact": {
+    "ostreiculture": -12.5,
+    "emploi_littoral": -230,
+    "biodiversite": "declin modere"
+  }
+}

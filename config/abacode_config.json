@@ -1,0 +1,15 @@
+{
+  "thresholds": {
+    "pH_min": 7.9,
+    "Omega_aragonite_min": 1.5
+  },
+  "scenarios": [
+    "RCP2.6",
+    "RCP4.5",
+    "RCP8.5"
+  ],
+  "units": {
+    "pH": "total scale",
+    "Omega_aragonite": "dimensionless"
+  }
+}

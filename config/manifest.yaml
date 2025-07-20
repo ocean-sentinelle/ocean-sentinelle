@@ -1,0 +1,6 @@
+manifest:
+  name: GPT Copilote OCEAN-SENTINELLE
+  description: Outil d'aide a la decision pour la gestion du littoral N-A face a l'acidification
+  version: 1.0.0
+  updated: 2025-07-19
+  author: Alejandro Trujillo Castro

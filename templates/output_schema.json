@@ -1,0 +1,10 @@
+{
+  "region": "str",
+  "scenario": "str",
+  "year": "int",
+  "impacts": {
+    "ostreiculture": "float",
+    "emploi_littoral": "int",
+    "biodiversite": "str"
+  }
+}
