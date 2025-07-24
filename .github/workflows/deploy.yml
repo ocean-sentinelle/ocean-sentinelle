@@ -9,6 +9,12 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    
+    # AJOUTEZ CETTE SECTION
+    permissions:
+      contents: write
+    # FIN DE L'AJOUT
+    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
